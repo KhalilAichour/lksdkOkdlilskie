@@ -1,0 +1,156 @@
+body{
+  background-color: #f5f5f5;
+}
+
+.logo{
+  font-family: 'Fredericka the Great', cursive;
+  color: #aa6902;
+  text-decoration: none;
+}
+
+.bottom-navbar-link{
+  text-decoration: none;
+  color: white;
+}
+
+.bg-customized{
+  background-color: #aa6902;
+}
+
+.my-fc-customized{
+  color: #aa6902;
+}
+
+.fc-customized{
+  color: white;
+}
+
+.fc-customized:hover{
+  color: darkgray;
+}
+
+.font-ingredients{
+  font-family: 'Merienda', cursive, sans-serif;
+}
+
+.customized-card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.customized-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.customized-card img {
+  border-radius: 5px 5px 0 0;
+}
+
+.restMenu{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.userMenu{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.myCard{
+  width: 280px;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-bottom: 160px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.myCard-img-container{
+  height: 240px;
+  width: 100%;
+  margin-top: -125px;
+  border-radius: 10px;
+}
+
+.myCard-img-container > img{
+  width: 240px;
+  border-radius: 10px;
+}
+
+.myCard-text-container{
+  text-align: center;
+  padding: 10px;
+}
+
+.myCard-titre-container{
+  color: #aa6902;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.myCard-desc-container{
+  font-family: sans-serif;
+}
+
+.myMargin-b-160{
+  margin-top: 160px;
+}
+
+.k-h-48{
+  height:48px;
+}
+
+.restCart{
+  margin-top: -120px;
+}
+
+.shareCard{
+  width: 100px;
+  height: 100px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  padding-left: 7px;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+
+.shareCard:hover{
+  background-color: #a79d8d;
+  transform: rotate(360deg);
+}
+
+.menuHorizontal{
+  cursor: pointer;
+}
+
+.menuHorizontalActive{
+  /* font-weight: bold; */
+  text-decoration: underline;
+}
+
+.hhh7779{
+	margin-bottom: 300px;
+}
+
+.bottom-navbar-item:hover{
+	cursor : pointer;
+}
+
+
+
+
+
+
+
+
+
